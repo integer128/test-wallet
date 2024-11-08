@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/images/arrowdown.png</file>
+        <file>ui/images/arrowup.png</file>
+        <file>ui/images/settings.png</file>
+    </qresource>
+</RCC>
